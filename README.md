@@ -1,1 +1,1 @@
-# shop_js
+# shop-js
